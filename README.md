@@ -1,4 +1,7 @@
-### Hi devs ! I'm Florian, stay a little ☕
+### <p align=center>Hi devs ! I'm Florian, stay a little ☕</p>
+---
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+
 
 <!--
 **floriqn/floriqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
