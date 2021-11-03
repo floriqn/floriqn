@@ -1,6 +1,6 @@
 ### <p align=center>Hi devs ! I'm Florian, stay a little ☕</p>
 ---
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+
 
 
 <!--
