@@ -7,7 +7,7 @@
 </p>
 
 <p align=center>
-  Junior developer, graduated in 2020 🏫 
+  Junior developer, graduated in 2020 🏫 Familiar with php and Symfony framework, I also use JavaScript, TypeScript for Angular.
 </p>
 
 
