@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<p align=center>
+  Junior developer, graduated in 2020 🏫 
+</p>
+
 
 <!--
 **floriqn/floriqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
