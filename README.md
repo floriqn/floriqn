@@ -9,10 +9,10 @@
 <p align=center>
   Junior developer, graduated in 2020 🏫 Confirmed in HTML (can I say confirmed for HTML ? 🤔), I love CSS 😂 (Bootstrap but I prefer the vanilla CSS => SCSS). Familiar with php and Symfony framework, I also use vanilla JavaScript, TypeScript for Angular.
 </p>
-<br/>
+<br />
 ### <p align=center>My latest projects 🖥️</p>
 ---
-<br/>
+<br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=floriqn&repo=about_my_model" />
 </a>
