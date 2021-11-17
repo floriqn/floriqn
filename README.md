@@ -7,7 +7,7 @@
 </p>
 
 <p align=center>
-  Junior developer, graduated in 2020 🏫 Familiar with php and Symfony framework, I also use JavaScript, TypeScript for Angular.
+  Junior developer, graduated in 2020 🏫 Confirmed in HTML (can I say confirmed for HTML ? 🤔), I love CSS 😂 (Bootstrap but I prefer the vanilla CSS => SCSS). Familiar with php and Symfony framework, I also use vanilla JavaScript, TypeScript for Angular. H
 </p>
 
 
