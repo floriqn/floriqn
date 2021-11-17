@@ -1,10 +1,6 @@
 ### <p align=center>Hi devs ! I'm Florian, stay a little ☕</p>
 ---
-<p align=”center”>
-<a href=”LinkedIn profile URL”>
 <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
 
 
 <!--
