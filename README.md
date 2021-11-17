@@ -10,7 +10,6 @@
   Junior developer, graduated in 2020 🏫 Confirmed in HTML (can I say confirmed for HTML ? 🤔), I love CSS 😂 (Bootstrap but I prefer the vanilla CSS => SCSS). Familiar with php and Symfony framework, I also use vanilla JavaScript, TypeScript for Angular.
 </p>
 
-
 <!--
 **floriqn/floriqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
