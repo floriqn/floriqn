@@ -16,6 +16,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=floriqn&langs_count=8&repo=about_my_model" />
 </a>
 
+### <p align=center> About me </p>
+<p> TO COMPLETE </p>
 <!--
 **floriqn/floriqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
