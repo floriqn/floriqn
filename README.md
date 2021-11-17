@@ -1,6 +1,10 @@
 ### <p align=center>Hi devs ! I'm Florian, stay a little ☕</p>
 ---
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+<p align=center>
+  <a href="https://fr.linkedin.com/in/florian-p-71a15681?trk=people-guest_people_search-card">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+  </a>
+</p>
 
 
 <!--
