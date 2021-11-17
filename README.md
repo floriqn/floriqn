@@ -10,10 +10,6 @@
   Junior developer, graduated in 2020 🏫 Confirmed in HTML (can I say confirmed for HTML ? 🤔), I love CSS 😂 (Bootstrap but I prefer the vanilla CSS => SCSS). Familiar with php and Symfony framework, I also use vanilla JavaScript, TypeScript for Angular.
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=floriqn&repo=about_my_model" />
-</a>
-
 <!--
 **floriqn/floriqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
